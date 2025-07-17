@@ -28,7 +28,7 @@ My primary goal was to build a robust predictive model for AI/ML/DS job salaries
 
 The dataset used for this analysis is **'Data Science, AI & ML Job Salaries in 2025'**, publicly available on Kaggle. This dataset provides current and projected salary information across various AI/ML/DS roles, experience levels, company types, and geographical locations.
 
-* **Link to Dataset:** [Data Science, AI & ML Job Salaries in 2025](https://www.kaggle.com/datasets/adilshamim/data-science-ai-ml-job-salaries-in-2025)
+* **Link to Dataset:** [Data Science, AI & ML Job Salaries in 2025](https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs/discussion?sort=hotness)
 
 ## 3. Methodology
 
@@ -47,7 +47,7 @@ The raw data underwent thorough cleaning and preparation.
 Extensive Exploratory Data Analysis (EDA) was performed to uncover initial patterns and characteristics of the job market data. Key observations included:
 
 * **Salary Distribution:** The overall distribution of salaries was **right-skewed**, indicating a concentration of jobs at lower to mid-salary ranges, with a long tail extending towards very high compensation for specialized roles.
-    ![Salary Distribution](plots/[Salary_Distribution_PLOT_FILENAME].png)
+    ![Salary Distribution](plots/[SALES_DISTRIBUTION_PLOT_FILENAME].png)
 * **Experience Level Impact:** A **clear and consistent positive correlation** was observed between experience level and salary, with median salaries significantly increasing from Entry-level to Executive-level positions.
     ![Salary by Experience Level](plots/[YOUR_SALARY_BY_EXPERIENCE_PLOT_FILENAME].png)
 * **Geographical Variations:** Analysis showed substantial differences in average salaries across various company locations, reflecting regional economic factors and talent demand. For instance, countries like the United States typically command higher average salaries.
