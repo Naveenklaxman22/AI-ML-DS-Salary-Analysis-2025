@@ -47,7 +47,7 @@ The raw data underwent thorough cleaning and preparation.
 Extensive Exploratory Data Analysis (EDA) was performed to uncover initial patterns and characteristics of the job market data. Key observations included:
 
 * **Salary Distribution:** The overall distribution of salaries was **right-skewed**, indicating a concentration of jobs at lower to mid-salary ranges, with a long tail extending towards very high compensation for specialized roles.
-    ![Salary Distribution](plots/[Salary Distribution].png)
+    ![Salary Distribution](plots/[Salary_Distribution_PLOT_FILENAME].png)
 * **Experience Level Impact:** A **clear and consistent positive correlation** was observed between experience level and salary, with median salaries significantly increasing from Entry-level to Executive-level positions.
     ![Salary by Experience Level](plots/[YOUR_SALARY_BY_EXPERIENCE_PLOT_FILENAME].png)
 * **Geographical Variations:** Analysis showed substantial differences in average salaries across various company locations, reflecting regional economic factors and talent demand. For instance, countries like the United States typically command higher average salaries.
